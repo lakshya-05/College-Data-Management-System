@@ -1,0 +1,4 @@
+Name    |Subject        |Age    |College    |
+
+Jim		|Physics		|43		|NITB		|
+Boyd	|History		|52		|HVD		|

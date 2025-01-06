@@ -1,0 +1,5 @@
+College |Name       |Roll No|Age    |
+
+Bob	    |IITR		|4		|21		|
+Kate	|NITB		|17		|19		|
+Harry	|MIT		|12		|20		|
